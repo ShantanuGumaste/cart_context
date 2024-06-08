@@ -36,7 +36,7 @@ export default function Header({ onUpdateCartItemQuantity }) {
       <header id="main-header">
         <div id="main-title">
           <img src="logo.jpg" alt="Triathalon" />
-          <h1>Triathalon</h1>
+          <h1>Triathalon - Ecommerce</h1>
         </div>
         <p>
           <button onClick={handleOpenCartClick}>Cart ({cartQuantity})</button>
